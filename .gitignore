@@ -1,0 +1,5 @@
+model/**
+train_datasets/**
+val_datasets/**
+*.onnx
+*.zip
